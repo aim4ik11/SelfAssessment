@@ -7,6 +7,7 @@
 - [Asynchronous programming](Skills/Async.md)
 - [Node.js and Backend](Skills/NodeJS.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
+- [GameDevelopment](Skills/GameDevelopment.md)
 
 ## How to use
 
@@ -17,7 +18,7 @@
 - Now you can create pull request and merge this to main branch of your fork (prefer single commit: use squash and merge)
 - Repeat self assessment after course or training
 - Now You can compare branches with URL:
-  - `https://github.com/<YOUR-ACCOUNT>/SelfAssessment/compare/2023-autumn...2024-winter`
+  - `https://github.com/aim4ik11/SelfAssessment/compare/2023-autumn...2024-winter`
 
 ## Example
 

@@ -1,0 +1,37 @@
+## GameDevelopment
+
+- Unity
+  - Unity for game development: pros and cons 
+  - Unity life cycle 
+  - Monobehaviour 
+  - GameObjects 
+  - ScriptableObjects 
+  - Unity basic components 
+  - Input management 
+  - Coroutine 
+  - Serialize Fields 
+  - yield 
+- Design Patterns
+  - Command 
+  - Flyweight 
+  - Observer 
+  - Prototype 
+  - Singleton 
+  - State 
+- Sequencing Patterns
+  - Double buffer 
+  - Game loop 
+  - Update method 
+- Behavioral Patterns
+  - Bytecode 
+  - Subclass Sandbox 
+  - Type Object 
+- Decoupling Patterns
+  - Component 
+  - Event Queue 
+  - Service Locator 
+- Optimization Patterns
+  - Data Locality 
+  - Dirty Flag 
+  - Object Pool 
+  - Spatial Partition 
