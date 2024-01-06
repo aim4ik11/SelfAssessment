@@ -6,39 +6,39 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🙋 explained
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - node:module 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
+  - Dependencies: npm, node_modules 🖐️ used
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API 👂 heard
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with node:crypto.scrypt 🖐️ used
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -94,18 +94,18 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 🖐️ used
+  - DoS 🎓 known
+  - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -122,8 +122,8 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 🖐️ used
+  - Console 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,25 +131,25 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🖐️ used
   - Active record
   - Query builder
-  - Object-Relational Mapping
+  - Object-Relational Mapping 🖐️ used
 - Error handling and debugging
-  - Error
+  - Error 🖐️ used
   - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - error.code 🖐️ used
+  - error.message 🖐️ used
+  - error.stack 🖐️ used
   - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
+  - Error.captureStackTrace 🖐️ used
+  - Uncaught exceptions 🙋 explained
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🙋 explained
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks 🙋 explained
+  - Resource leaks 🙋 explained
+  - Data race 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons

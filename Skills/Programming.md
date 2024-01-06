@@ -13,7 +13,7 @@
   - procedure 🙋 explained
   - method 🙋 explained
   - class 🙋 explained
-  - prototype 
+  - prototype 🙋 explained
   - event 🙋 explained
   - type 🙋 explained
   - primitive types 🙋 explained
@@ -23,10 +23,10 @@
   - code block 🙋 explained
   - conditions 🙋 explained
   - loops 🙋 explained
-  - assignment
+  - assignment 🙋 explained
   - regular expression 🙋 explained
-  - interface 
-  - contract 
+  - interface 🙋 explained
+  - contract 🙋 explained
   - module 🙋 explained
   - call stack 🔬 researched
 - Functions
@@ -35,28 +35,28 @@
   - parameter 🙋 explained
   - pure function 🙋 explained
   - lambda expression 🙋 explained
-  - side effects 
-  - closure 
-  - partial application 
-  - curry 
-  - higher order 
+  - side effects 👂 heard
+  - closure 🙋 explained
+  - partial application 🎓 known
+  - curry 🎓 known
+  - higher order 👂 heard
   - recursion 🙋 explained
   - callback 🙋 explained
   - listener 🙋 explained
-  - compose 
-  - pipe 
+  - compose 🖐️ used
+  - pipe 🙋 explained
   - memoize 🙋 explained
-  - wrapper 
-  - functor 
-  - monad 
-  - monoid 
-  - generator 
-  - coroutine 
+  - wrapper 🙋 explained
+  - functor 🎓 known
+  - monad 🎓 known
+  - monoid 🖐️ used
+  - generator 🖐️ used
+  - coroutine 🙋 explained
 - Data structures
   - array 🙋 explained
   - structure 🙋 explained
-  - record 
-  - enum 
+  - record 🙋 explained
+  - enum 🙋 explained
   - instance 🙋 explained
   - object 🙋 explained
   - class 🙋 explained
@@ -75,13 +75,13 @@
   - iterator 🙋 explained
   - mutable state 🙋 explained
   - immutable state 🙋 explained
-  - serialization 
+  - serialization 🙋 explained
   - string parsing 🙋 explained
 - Process & style
   - compiler 🙋 explained
   - transpiler 👂 heard
   - linter 🙋 explained
-  - polyfill
+  - polyfill 👂 heard
   - debugger🙋 explained
   - garbage collection 🔬 researched
   - refactoring 🙋 explained
@@ -102,5 +102,5 @@
   - exception 🔬 researched
   - return early 🙋 explained
   - unittest 🙋 explained
-  - git 👂 heard
-  - github 🖐️ used
+  - git 🙋 explained
+  - github 🙋 explained 

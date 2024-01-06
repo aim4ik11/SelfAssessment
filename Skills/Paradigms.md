@@ -11,9 +11,9 @@
   - Object-based programming 👂 heard
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
-  - Asynchronous programming 👂 heard
+  - Asynchronous programming 🖐️ used
   - Parallel programming 👂 heard
-  - Reactive programming 👂 heard
+  - Reactive programming 🖐️ used
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming
   - Domain-specific languages
@@ -25,7 +25,7 @@
   - new 🙋 explained
   - Static method 🙋 explained
   - Method 🙋 explained
-  - Async method 👂 heard
+  - Async method 🙋 explained
   - Getters, Setters 🙋 explained
   - Public fields 🙋 explained
   - Private fields 🙋 explained
@@ -39,28 +39,28 @@
   - Hidden class 👂 heard
   - Object form 🙋 explained
   - instance 🙋 explained
-  - Introspection
-  - Reflection
+  - Introspection 🙋 explained
+  - Reflection 🙋 explained
 - Patterns
-  - Singleton 
-  - Factory Method 
-  - Abstract Factory 
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🙋 explained 
   - Adapter
-  - Observer 
-  - Strategy
+  - Observer 🙋 explained
+  - Strategy 🖐️ used
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command 
+  - Command 🙋 explained
   - Iterator 🙋 explained
-  - State 
+  - State 🙋 explained
   - Bridge
   - Builder
-  - Prototype 
+  - Prototype 🙋 explained
   - Composite
-  - Decorator 
-  - Flyweight 
+  - Decorator 🙋 explained
+  - Flyweight 🙋 explained
   - Mediator
   - Memento
   - Template Method 🙋 explained
-  - Visitor 
+  - Visitor 🙋 explained

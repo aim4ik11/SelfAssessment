@@ -3,57 +3,57 @@
 - Language
   - Object 🙋 explained
   - this 🙋 explained
-  - arrow function
-  - async function
+  - arrow function 🙋 explained
+  - async function 🙋 explained
   - call 🙋 explained
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring 
-  - generator
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof 🙋 explained
+  - ...spread 🙋 explained
+  - ...rest 🙋 explained
+  - typeof 🙋 explained
+  - destructuring 🙋 explained
+  - generator 🖐️ used
   - iterator 🙋 explained
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 🙋 explained
+  - optional chaining 🙋 explained
+  - IIFE 👂 heard
   - global 🙋 explained
-  - globalThis
+  - globalThis 🎓 known
   - window 🙋 explained
   - getters and setters 🙋 explained
-  - __proto__
-  - prototype
+  - __proto__ 🙋 explained
+  - prototype 🙋 explained
   - equality operators 🙋 explained
   - logical operators 🙋 explained
   - bitwise operators 🙋 explained
   - ternary operator 🙋 explained
   - void 🙋 explained
-  - yield
-  - await
+  - yield 🙋 explained
+  - await 🙋 explained
   - template literal
-  - strict mode
+  - strict mode 🙋 explained
   - delete 🙋 explained
   - in 🙋 explained
   - super 🙋 explained
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
   - if 🙋 explained
   - while 🙋 explained
   - do..while 🙋 explained
   - for 🙋 explained
-  - for..in
+  - for..in 🖐️ used
   - for..of 🙋 explained
-  - for await
+  - for await 👂 heard
   - throw 🙋 explained
   - break 🙋 explained
   - continue 🙋 explained
   - import 🙋 explained
   - export 🙋 explained
-  - label 
+  - label 👂 heard
   - try..catch 🙋 explained
   - switch 🙋 explained
   - class 🙋 explained
@@ -67,8 +67,8 @@
   - functional object 
 - Data structures
   - Array 🙋 explained
-  - mixin
-  - extend
+  - mixin 👂 heard
+  - extend 👂 heard
   - typed arrays 🙋 explained
   - Map 🙋 explained
   - Set 🙋 explained
@@ -76,14 +76,14 @@
   - null 🙋 explained
   - Proxy
   - weak collections
-  - timers
-  - EventEmitter
+  - timers 🎓 known
+  - EventEmitter 🎓 known
   - RegExp 🙋 explained
-  - Date 
+  - Date 🙋 explained
   - BigInt 🙋 explained
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🖐️ used
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🙋 explained
+  - MDN 🖐️ used
