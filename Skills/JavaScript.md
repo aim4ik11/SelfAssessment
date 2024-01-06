@@ -1,86 +1,86 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🙋 explained
+  - this 🙋 explained
   - arrow function
   - async function
-  - call
+  - call 🙋 explained
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
   - typeof
-  - destructuring
+  - destructuring 
   - generator
-  - iterator
+  - iterator 🙋 explained
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 🙋 explained
   - globalThis
-  - window
-  - getters and setters
+  - window 🙋 explained
+  - getters and setters 🙋 explained
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🙋 explained
+  - ternary operator 🙋 explained
+  - void 🙋 explained
   - yield
   - await
   - template literal
   - strict mode
-  - delete
-  - in
-  - super
+  - delete 🙋 explained
+  - in 🙋 explained
+  - super 🙋 explained
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
   - for..in
-  - for..of
+  - for..of 🙋 explained
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - throw 🙋 explained
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🙋 explained
+  - export 🙋 explained
+  - label 
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🙋 explained
+  - new Error 🙋 explained
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
+  - functional object 
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - typed arrays 🙋 explained
+  - Map 🙋 explained
+  - Set 🙋 explained
+  - undefined 🙋 explained
+  - null 🙋 explained
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - RegExp 🙋 explained
+  - Date 
+  - BigInt 🙋 explained
 - Infrastructure
   - V8
   - Node.js
