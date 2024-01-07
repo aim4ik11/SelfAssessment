@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🙋 explained
-  - identifier 🙋 explained
-  - variable 🙋 explained
-  - constant 🙋 explained
-  - scalar 🙋 explained
-  - literal 🙋 explained
-  - expression 🙋 explained
-  - heap 🙋 explained
-  - function 🙋 explained
-  - procedure 🙋 explained
-  - method 🙋 explained
-  - class 🙋 explained
-  - prototype 🙋 explained
-  - event 🙋 explained
-  - type 🙋 explained
-  - primitive types 🙋 explained
-  - reference types 🙋 explained
-  - flag 🙋 explained
-  - lexical scope 🙋 explained
-  - code block 🙋 explained
-  - conditions 🙋 explained
-  - loops 🙋 explained
-  - assignment 🙋 explained
-  - regular expression 🙋 explained
-  - interface 🙋 explained
-  - contract 🙋 explained
-  - module 🙋 explained
-  - call stack 🔬 researched
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🔬 researched
 - Functions
-  - signature 🙋 explained
-  - argument 🙋 explained
-  - parameter 🙋 explained
-  - pure function 🙋 explained
-  - lambda expression 🙋 explained
-  - side effects 👂 heard
-  - closure 🙋 explained
-  - partial application 🎓 known
-  - curry 🎓 known
-  - higher order 👂 heard
-  - recursion 🙋 explained
-  - callback 🙋 explained
-  - listener 🙋 explained
-  - compose 🖐️ used
-  - pipe 🙋 explained
-  - memoize 🙋 explained
-  - wrapper 🙋 explained
-  - functor 🎓 known
-  - monad 🎓 known
-  - monoid 🖐️ used
-  - generator 🖐️ used
-  - coroutine 🙋 explained
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 👂 heard
+  - closure: 🙋 explained
+  - partial application: 🎓 known
+  - curry: 🎓 known
+  - higher order: 👂 heard
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🖐️ used
+  - pipe: 🙋 explained
+  - memoize: 🙋 explained
+  - wrapper: 🙋 explained
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🖐️ used
+  - generator: 🖐️ used
+  - coroutine: 🙋 explained
 - Data structures
-  - array 🙋 explained
-  - structure 🙋 explained
-  - record 🙋 explained
-  - enum 🙋 explained
-  - instance 🙋 explained
-  - object 🙋 explained
-  - class 🙋 explained
-  - collection 🙋 explained
-  - set 🙋 explained
-  - hash table 🙋 explained
-  - linked list 🙋 explained
-  - doubly list 🙋 explained
-  - unrolled list 🙋 explained
-  - circular list 🙋 explained
-  - queue 🙋 explained
-  - stack 🙋 explained
-  - deque 🙋 explained
-  - tree 🙋 explained
-  - graph 🙋 explained
-  - iterator 🙋 explained
-  - mutable state 🙋 explained
-  - immutable state 🙋 explained
-  - serialization 🙋 explained
-  - string parsing 🙋 explained
+  - array: 🙋 explained
+  - structure: 🙋 explained
+  - record: 🙋 explained
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
+  - doubly list: 🙋 explained
+  - unrolled list: 🙋 explained
+  - circular list: 🙋 explained
+  - queue: 🙋 explained
+  - stack: 🙋 explained
+  - deque: 🙋 explained
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🙋 explained
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler 🙋 explained
-  - transpiler 👂 heard
-  - linter 🙋 explained
-  - polyfill 👂 heard
-  - debugger🙋 explained
-  - garbage collection 🔬 researched
-  - refactoring 🙋 explained
-  - code review 🙋 explained
-  - antipatterns 🙋 explained
-  - paradigm 🙋 explained
-  - algorithm 🙋 explained
-  - magic numbers 🙋 explained
-  - hardcode 🙋 explained
-  - complexity 🙋 explained
-  - decomposition 🙋 explained
-  - spaghetti 🙋 explained
-  - silver bullet 🙋 explained
-  - not invented here 🙋 explained
-  - dead code 🙋 explained
-  - unreachable code 🙋 explained
-  - duplicate code 🙋 explained
-  - exception 🔬 researched
-  - return early 🙋 explained
-  - unittest 🙋 explained
-  - git 🙋 explained
-  - github 🙋 explained 
+  - compiler: 🙋 explained
+  - transpiler: 👂 heard
+  - linter: 🙋 explained
+  - polyfill: 👂 heard
+  - debugger: 🙋 explained
+  - garbage collection: 🔬 researched
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
+  - not invented here: 🙋 explained
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🔬 researched
+  - return early: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 🙋 explained
+  - github: 🙋 explained 

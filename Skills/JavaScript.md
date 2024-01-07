@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
-  - this 🙋 explained
-  - arrow function 🙋 explained
-  - async function 🙋 explained
-  - call 🙋 explained
-  - bind 👂 heard
-  - apply 👂 heard
-  - instanceof 🙋 explained
-  - ...spread 🙋 explained
-  - ...rest 🙋 explained
-  - typeof 🙋 explained
-  - destructuring 🙋 explained
-  - generator 🖐️ used
-  - iterator 🙋 explained
-  - async generator 👂 heard
-  - async iterator 👂 heard
-  - chaining 🙋 explained
-  - optional chaining 🙋 explained
-  - IIFE 👂 heard
-  - global 🙋 explained
-  - globalThis 🎓 known
-  - window 🙋 explained
-  - getters and setters 🙋 explained
-  - __proto__ 🙋 explained
-  - prototype 🙋 explained
-  - equality operators 🙋 explained
-  - logical operators 🙋 explained
-  - bitwise operators 🙋 explained
-  - ternary operator 🙋 explained
-  - void 🙋 explained
-  - yield 🙋 explained
-  - await 🙋 explained
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🖐️ used
+  - iterator: 🙋 explained
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 🙋 explained
+  - optional chaining: 🙋 explained
+  - IIFE: 👂 heard
+  - global: 🙋 explained
+  - globalThis: 🎓 known
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
+  - __proto__: 🙋 explained
+  - prototype: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🙋 explained
+  - await: 🙋 explained
   - template literal
-  - strict mode 🙋 explained
-  - delete 🙋 explained
-  - in 🙋 explained
-  - super 🙋 explained
-  - Symbol 👂 heard
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
-  - for..in 🖐️ used
-  - for..of 🙋 explained
-  - for await 👂 heard
-  - throw 🙋 explained
-  - break 🙋 explained
-  - continue 🙋 explained
-  - import 🙋 explained
-  - export 🙋 explained
-  - label 👂 heard
-  - try..catch 🙋 explained
-  - switch 🙋 explained
-  - class 🙋 explained
-  - new Error 🙋 explained
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🖐️ used
+  - for..of: 🙋 explained
+  - for await: 👂 heard
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 👂 heard
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with
 - Functions
-  - function declaration 🙋 explained
-  - function expression 🙋 explained
-  - return 🙋 explained
-  - default parameters 🙋 explained
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object 
 - Data structures
-  - Array 🙋 explained
-  - mixin 👂 heard
-  - extend 👂 heard
-  - typed arrays 🙋 explained
-  - Map 🙋 explained
-  - Set 🙋 explained
-  - undefined 🙋 explained
-  - null 🙋 explained
+  - Array: 🙋 explained
+  - mixin: 👂 heard
+  - extend: 👂 heard
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy
   - weak collections
-  - timers 🎓 known
-  - EventEmitter 🎓 known
-  - RegExp 🙋 explained
-  - Date 🙋 explained
-  - BigInt 🙋 explained
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🙋 explained
+  - Date: 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
-  - V8 🖐️ used
-  - Node.js 🖐️ used
-  - npm 🖐️ used
-  - prettier 🙋 explained
-  - MDN 🖐️ used
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🙋 explained
+  - MDN: 🖐️ used

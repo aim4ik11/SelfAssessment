@@ -6,39 +6,39 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection 🙋 explained
+  - Garbage collection: 🙋 explained
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 🖐️ used
-  - ECMAScript modules 🖐️ used
-  - node:module 🖐️ used
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules 🖐️ used
+  - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection 🖐️ used
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 🖐️ used
-  - Node.js CLI 🖐️ used
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API 👂 heard
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API
-  - File system API: sync and async 👂 heard
+  - File system API: sync and async: 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -61,13 +61,13 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer 🙋 explained
-  - Multilayer approach 🙋 explained
+  - Isolation between layer: 🙋 explained
+  - Multilayer approach: 🙋 explained
   - Separation of concerns
-  - Inversion of control 🙋 explained
-  - Dependency injection 🙋 explained
+  - Inversion of control: 🙋 explained
+  - Dependency injection: 🙋 explained
   - GRASP
-  - SOLID 🙋 explained
+  - SOLID: 🙋 explained
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 🖐️ used
+  - HTTP(S): 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -94,18 +94,18 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST 🖐️ used
+  - REST: 🖐️ used
   - RPC
-  - Routing 🖐️ used
-  - DoS 🎓 known
-  - DDoS 🎓 known
+  - Routing: 🖐️ used
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API 🖐️ used
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - SQL injection 🖐️ used
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -122,8 +122,8 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer 🖐️ used
-  - Console 🖐️ used
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -131,25 +131,25 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository 🖐️ used
+  - Repository: 🖐️ used
   - Active record
   - Query builder
-  - Object-Relational Mapping 🖐️ used
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error 🖐️ used
+  - Error: 🖐️ used
   - error.cause
-  - error.code 🖐️ used
-  - error.message 🖐️ used
-  - error.stack 🖐️ used
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins
-  - Error.captureStackTrace 🖐️ used
-  - Uncaught exceptions 🙋 explained
+  - Error.captureStackTrace: 🖐️ used
+  - Uncaught exceptions: 🙋 explained
   - Heap dump
-  - Debugging tools 🙋 explained
+  - Debugging tools: 🙋 explained
   - Flame graph
-  - Memory leaks 🙋 explained
-  - Resource leaks 🙋 explained
-  - Data race 👂 heard
+  - Memory leaks: 🙋 explained
+  - Resource leaks: 🙋 explained
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons
