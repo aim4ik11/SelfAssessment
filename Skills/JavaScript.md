@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
-  - this 🙋 explained
+  - Object: 🙋 explained
+  - this: 🙋 explained
   - arrow function
   - async function
-  - call 🙋 explained
+  - call: 🙋 explained
   - bind
   - apply
   - instanceof
@@ -14,73 +14,73 @@
   - typeof
   - destructuring 
   - generator
-  - iterator 🙋 explained
+  - iterator: 🙋 explained
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global 🙋 explained
+  - global: 🙋 explained
   - globalThis
-  - window 🙋 explained
-  - getters and setters 🙋 explained
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
   - __proto__
   - prototype
-  - equality operators 🙋 explained
-  - logical operators 🙋 explained
-  - bitwise operators 🙋 explained
-  - ternary operator 🙋 explained
-  - void 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
   - yield
   - await
   - template literal
   - strict mode
-  - delete 🙋 explained
-  - in 🙋 explained
-  - super 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
   - Symbol
   - Reflect
 - Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
   - for..in
-  - for..of 🙋 explained
+  - for..of: 🙋 explained
   - for await
-  - throw 🙋 explained
-  - break 🙋 explained
-  - continue 🙋 explained
-  - import 🙋 explained
-  - export 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label 
-  - try..catch 🙋 explained
-  - switch 🙋 explained
-  - class 🙋 explained
-  - new Error 🙋 explained
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with
 - Functions
-  - function declaration 🙋 explained
-  - function expression 🙋 explained
-  - return 🙋 explained
-  - default parameters 🙋 explained
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object 
 - Data structures
-  - Array 🙋 explained
+  - Array: 🙋 explained
   - mixin
   - extend
-  - typed arrays 🙋 explained
-  - Map 🙋 explained
-  - Set 🙋 explained
-  - undefined 🙋 explained
-  - null 🙋 explained
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp 🙋 explained
+  - RegExp: 🙋 explained
   - Date 
-  - BigInt 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
   - V8
   - Node.js

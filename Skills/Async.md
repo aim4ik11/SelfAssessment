@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop 
-  - try..catch 🙋 explained
+  - try..catch: 🙋 explained
   - Non-blocking
   - Async I/O
   - Thread pool

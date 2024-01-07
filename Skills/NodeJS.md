@@ -61,13 +61,13 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer 🙋 explained
-  - Multilayer approach 🙋 explained
+  - Isolation between layer: 🙋 explained
+  - Multilayer approach: 🙋 explained
   - Separation of concerns
-  - Inversion of control 🙋 explained
-  - Dependency injection 🙋 explained
+  - Inversion of control: 🙋 explained
+  - Dependency injection :🙋 explained
   - GRASP
-  - SOLID 🙋 explained
+  - SOLID: 🙋 explained
   - GoF patterns
   - Distributed systems
   - Highload applications
